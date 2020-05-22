@@ -5,7 +5,7 @@ url='https://moveit.ros.org/'
 
 pkgname='ros-melodic-moveit-ros-occupancy-map-monitor'
 pkgver='1.0.3'
-arch=('any')
+arch=('i686' 'x86_64' 'aarch64' 'armv7h' 'armv6h')
 pkgrel=1
 license=('BSD')
 
